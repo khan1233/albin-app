@@ -2,7 +2,7 @@
   "name": "alb-app",
   "version": "0.0.0",
   "engines": {
-    "node": "14.x"
+    "node": "13.10.1"
   }
   "scripts": {
     "ng": "ng",
